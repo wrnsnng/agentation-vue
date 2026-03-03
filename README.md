@@ -1,5 +1,7 @@
 <img src="./package/logo.svg" alt="Agentation" width="50" />
 
+> **This is a community fork of [agentation](https://github.com/benjitaylor/agentation) with Vue 3 support.**
+
 [![npm version](https://img.shields.io/npm/v/agentation)](https://www.npmjs.com/package/agentation)
 [![downloads](https://img.shields.io/npm/dm/agentation)](https://www.npmjs.com/package/agentation)
 
