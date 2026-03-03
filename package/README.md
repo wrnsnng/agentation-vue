@@ -13,17 +13,15 @@ npm install agentation -D
 
 ## Usage
 
-```tsx
-import { Agentation } from 'agentation';
+```vue
+<script setup>
+import { Agentation } from 'agentation/vue';
+</script>
 
-function App() {
-  return (
-    <>
-      <YourApp />
-      <Agentation />
-    </>
-  );
-}
+<template>
+  <YourApp />
+  <Agentation />
+</template>
 ```
 
 The toolbar appears in the bottom-right corner. Click to activate, then click any element to annotate it.
@@ -60,31 +58,29 @@ The toolbar appears in the bottom-right corner. Click to activate, then click an
 
 Use callbacks to receive annotation data directly:
 
-```tsx
-import { Agentation, type Annotation } from 'agentation';
+```vue
+<script setup lang="ts">
+import { Agentation, type Annotation } from 'agentation/vue';
 
-function App() {
-  const handleAnnotation = (annotation: Annotation) => {
-    // Structured data - no parsing needed
-    console.log(annotation.element);      // "Button"
-    console.log(annotation.elementPath);  // "body > div > button"
-    console.log(annotation.boundingBox);  // { x, y, width, height }
-    console.log(annotation.cssClasses);   // "btn btn-primary"
+function handleAnnotation(annotation: Annotation) {
+  // Structured data - no parsing needed
+  console.log(annotation.element);      // "Button"
+  console.log(annotation.elementPath);  // "body > div > button"
+  console.log(annotation.boundingBox);  // { x, y, width, height }
+  console.log(annotation.cssClasses);   // "btn btn-primary"
 
-    // Send to your agent, API, etc.
-    sendToAgent(annotation);
-  };
-
-  return (
-    <>
-      <YourApp />
-      <Agentation
-        onAnnotationAdd={handleAnnotation}
-        copyToClipboard={false}  // Don't write to clipboard
-      />
-    </>
-  );
+  // Send to your agent, API, etc.
+  sendToAgent(annotation);
 }
+</script>
+
+<template>
+  <YourApp />
+  <Agentation
+    :on-annotation-add="handleAnnotation"
+    :copy-to-clipboard="false"
+  />
+</template>
 ```
 
 ### Annotation Type
@@ -121,7 +117,7 @@ Agentation captures class names, selectors, and element positions so AI agents c
 
 ## Requirements
 
-- React 18+
+- Vue 3+
 - Desktop browser (mobile not supported)
 
 ## Docs

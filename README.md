@@ -13,17 +13,15 @@ npm install agentation -D
 
 ## Usage
 
-```tsx
-import { Agentation } from 'agentation';
+```vue
+<script setup>
+import { Agentation } from 'agentation/vue';
+</script>
 
-function App() {
-  return (
-    <>
-      <YourApp />
-      <Agentation />
-    </>
-  );
-}
+<template>
+  <YourApp />
+  <Agentation />
+</template>
 ```
 
 The toolbar appears in the bottom-right corner. Click to activate, then click any element to annotate it.
@@ -45,7 +43,7 @@ Agentation captures class names, selectors, and element positions so AI agents c
 
 ## Requirements
 
-- React 18+
+- Vue 3+
 - Desktop browser (mobile not supported)
 
 ## Docs
