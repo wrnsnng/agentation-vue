@@ -17,13 +17,31 @@
         "types": "./dist/index.d.ts",
         "default": "./dist/index.js"
       }
+    },
+    "./vue": {
+      "types": "./dist/vue.d.ts",
+      "import": {
+        "types": "./dist/vue.d.ts",
+        "default": "./dist/vue.mjs"
+      },
+      "require": {
+        "types": "./dist/vue.d.ts",
+        "default": "./dist/vue.js"
+      }
+    }
+  },
+  "typesVersions": {
+    "*": {
+      "vue": [
+        "./dist/vue.d.ts"
+      ]
     }
   },
   "files": [
     "dist"
   ],
   "scripts": {
-    "build": "tsup",
+    "build": "tsup && cp dist/vue.d.ts dist/vue.d.mts 2>/dev/null || true",
     "watch": "tsup --watch",
     "dev": "pnpm build && pnpm watch",
     "test": "vitest run",
@@ -32,13 +50,17 @@
   },
   "peerDependencies": {
     "react": ">=18.0.0",
-    "react-dom": ">=18.0.0"
+    "react-dom": ">=18.0.0",
+    "vue": ">=3.3.0"
   },
   "peerDependenciesMeta": {
     "react": {
       "optional": true
     },
     "react-dom": {
+      "optional": true
+    },
+    "vue": {
       "optional": true
     }
   },
@@ -48,6 +70,7 @@
     "@types/react": "^18.2.0",
     "@types/react-dom": "^18.2.0",
     "@vitejs/plugin-react": "^4.3.0",
+    "@vue/compiler-sfc": "^3.5.29",
     "esbuild-sass-plugin": "^3.6.0",
     "jsdom": "^25.0.0",
     "postcss": "^8.5.6",
@@ -57,6 +80,7 @@
     "sass": "^1.97.2",
     "tsup": "^8.0.0",
     "typescript": "^5.0.0",
-    "vitest": "^2.0.0"
+    "vitest": "^2.0.0",
+    "vue": "^3.5.29"
   }
 }

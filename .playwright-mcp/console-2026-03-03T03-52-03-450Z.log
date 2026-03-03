@@ -1,0 +1,4 @@
+[      42ms] [WARNING] [Vue warn]: Property "__VERSION__" was accessed during render but is not defined on instance. 
+  at <ToolbarSettingsPanel settings= {outputDetail: standard, autoClearAfterCopy: false, annotationColor: #3c82f7, blockInteractions: true, reactEnabled: true} is-dark-mode=true show-settings-visible=false  ... > 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196

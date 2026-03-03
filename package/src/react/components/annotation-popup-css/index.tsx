@@ -1,9 +1,9 @@
 "use client";
 
 import { useState, useRef, useEffect, useCallback, forwardRef, useImperativeHandle } from "react";
-import styles from "./styles.module.scss";
+import styles from "../../../core/styles/annotation-popup.module.scss";
 import { IconTrash } from "../icons";
-import { originalSetTimeout } from "../../utils/freeze-animations";
+import { originalSetTimeout } from "../../../core/utils/freeze-animations";
 
 // =============================================================================
 // Types

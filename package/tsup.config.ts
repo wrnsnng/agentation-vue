@@ -10,6 +10,132 @@ import type { Plugin } from "esbuild";
 const pkg = JSON.parse(fs.readFileSync("./package.json", "utf-8"));
 const VERSION = pkg.version;
 
+// Vue SFC compiler plugin for esbuild
+function vueSfcPlugin(): Plugin {
+  return {
+    name: "vue-sfc",
+    setup(build) {
+      build.onResolve({ filter: /\.vue$/ }, (args) => {
+        return {
+          path: path.resolve(args.resolveDir, args.path),
+          namespace: "vue-sfc",
+        };
+      });
+
+      build.onLoad({ filter: /.*/, namespace: "vue-sfc" }, async (args) => {
+        const { parse, compileScript, compileTemplate } = await import(
+          "@vue/compiler-sfc"
+        );
+        const source = fs.readFileSync(args.path, "utf-8");
+        const id = args.path;
+        const { descriptor, errors } = parse(source, { filename: id });
+
+        if (errors.length > 0) {
+          return {
+            errors: errors.map((e) => ({
+              text: e.message,
+              location: { file: args.path },
+            })),
+          };
+        }
+
+        // Compile <script setup> or <script>
+        let scriptCode = "";
+        let bindings: Record<string, string> | undefined;
+        if (descriptor.script || descriptor.scriptSetup) {
+          const scriptResult = compileScript(descriptor, {
+            id,
+            inlineTemplate: false,
+          });
+          scriptCode = scriptResult.content;
+          bindings = scriptResult.bindings;
+        }
+
+        // Compile <template>
+        let templateCode = "";
+        if (descriptor.template) {
+          const templateResult = compileTemplate({
+            source: descriptor.template.content,
+            filename: id,
+            id,
+            compilerOptions: {
+              bindingMetadata: bindings,
+            },
+          });
+          if (templateResult.errors.length > 0) {
+            return {
+              errors: templateResult.errors
+                .filter(
+                  (e): e is { message: string } => typeof e !== "string",
+                )
+                .map((e) => ({
+                  text: e.message,
+                  location: { file: args.path },
+                })),
+            };
+          }
+          templateCode = templateResult.code;
+        }
+
+        // Handle <style> blocks - compile and inject at runtime
+        let styleCode = "";
+        for (let i = 0; i < descriptor.styles.length; i++) {
+          const style = descriptor.styles[i];
+          let css = style.content;
+
+          // Compile SCSS if needed
+          if (style.lang === "scss") {
+            const result = sass.compile(args.path);
+            css = result.css;
+          }
+
+          const styleId = `vue-sfc-${path.basename(args.path, ".vue")}-${i}`;
+          styleCode += `
+if (typeof document !== 'undefined') {
+  let _style = document.getElementById('${styleId}');
+  if (!_style) {
+    _style = document.createElement('style');
+    _style.id = '${styleId}';
+    _style.textContent = ${JSON.stringify(css)};
+    document.head.appendChild(_style);
+  }
+}
+`;
+        }
+
+        // Combine script + template + styles
+        // Replace default export to attach render function
+        let contents = scriptCode;
+
+        // Remove "export default" and capture the object
+        contents = contents.replace(
+          /export\s+default\s+/,
+          "const _sfc_main = ",
+        );
+
+        // Add template render function
+        if (templateCode) {
+          contents += "\n" + templateCode;
+          contents +=
+            "\n_sfc_main.render = render;";
+        }
+
+        // Add style injection
+        contents += "\n" + styleCode;
+
+        // Re-export
+        contents += "\nexport default _sfc_main;\n";
+
+        return {
+          contents,
+          loader: "ts",
+          resolveDir: path.dirname(args.path),
+        };
+      });
+    },
+  };
+}
+
 // Custom SCSS CSS Modules plugin with SSR-safe style injection
 function scssModulesPlugin(): Plugin {
   return {
@@ -99,5 +225,25 @@ export default defineConfig((options) => [
     banner: {
       js: '"use client";',
     },
+  },
+  // Vue component (runtime)
+  {
+    entry: { vue: "src/vue.ts" },
+    format: ["cjs", "esm"],
+    dts: false, // DTS generated separately (Rollup can't process .vue files)
+    splitting: false,
+    sourcemap: true,
+    clean: false, // React build already cleaned
+    external: ["vue"],
+    esbuildPlugins: [scssModulesPlugin(), vueSfcPlugin()],
+    define: {
+      __VERSION__: JSON.stringify(VERSION),
+    },
+  },
+  // Vue component (type declarations only)
+  {
+    entry: { vue: "src/vue-dts.ts" },
+    dts: { only: true },
+    external: ["vue"],
   },
 ]);

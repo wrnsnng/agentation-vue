@@ -13,19 +13,19 @@
 
 // Main components
 // CSS-only version (default - zero runtime deps)
-export { PageFeedbackToolbarCSS as Agentation } from "./components/page-toolbar-css";
-export { PageFeedbackToolbarCSS } from "./components/page-toolbar-css";
-export type { DemoAnnotation, AgentationProps } from "./components/page-toolbar-css";
+export { PageFeedbackToolbarCSS as Agentation } from "./react/components/page-toolbar-css";
+export { PageFeedbackToolbarCSS } from "./react/components/page-toolbar-css";
+export type { DemoAnnotation, AgentationProps } from "./react/components/page-toolbar-css";
 
 // Shared components (for building custom UIs)
-export { AnnotationPopupCSS } from "./components/annotation-popup-css";
+export { AnnotationPopupCSS } from "./react/components/annotation-popup-css";
 export type {
   AnnotationPopupCSSProps,
   AnnotationPopupCSSHandle,
-} from "./components/annotation-popup-css";
+} from "./react/components/annotation-popup-css";
 
 // Icons (same for both versions - they're pure SVG)
-export * from "./components/icons";
+export * from "./react/components/icons";
 
 // Utilities (for building custom UIs)
 export {
@@ -38,13 +38,13 @@ export {
   isInShadowDOM,
   getShadowHost,
   closestCrossingShadow,
-} from "./utils/element-identification";
+} from "./core/utils/element-identification";
 
 export {
   loadAnnotations,
   saveAnnotations,
   getStorageKey,
-} from "./utils/storage";
+} from "./core/utils/storage";
 
 // Types
-export type { Annotation } from "./types";
+export type { Annotation } from "./core/types";

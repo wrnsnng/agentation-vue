@@ -51,7 +51,7 @@ import {
   getAccessibilityInfo,
   getNearbyElements,
   closestCrossingShadow,
-} from "../../utils/element-identification";
+} from "../../../core/utils/element-identification";
 import {
   loadAnnotations,
   loadAllAnnotations,
@@ -61,7 +61,7 @@ import {
   saveSessionId,
   clearSessionId,
   saveAnnotationsWithSyncMarker,
-} from "../../utils/storage";
+} from "../../../core/utils/storage";
 import {
   createSession,
   getSession,
@@ -69,17 +69,17 @@ import {
   updateAnnotation as updateAnnotationOnServer,
   deleteAnnotation as deleteAnnotationFromServer,
   requestAction,
-} from "../../utils/sync";
+} from "../../../core/utils/sync";
 import { getReactComponentName } from "../../utils/react-detection";
 import {
   freeze as freezeAll,
   unfreeze as unfreezeAll,
   originalSetTimeout,
   originalSetInterval,
-} from "../../utils/freeze-animations";
+} from "../../../core/utils/freeze-animations";
 
-import type { Annotation } from "../../types";
-import styles from "./styles.module.scss";
+import type { Annotation } from "../../../core/types";
+import styles from "../../../core/styles/page-toolbar.module.scss";
 
 /**
  * Composes element identification with React component detection.

@@ -1,0 +1,1643 @@
+[      74ms] [WARNING] [Vue warn]: Property "__VERSION__" was accessed during render but is not defined on instance. 
+  at <ToolbarSettingsPanel settings= {outputDetail: standard, autoClearAfterCopy: false, annotationColor: #3c82f7, blockInteractions: true, reactEnabled: true} is-dark-mode=true show-settings-visible=false  ... > 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[     109ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5180/favicon.ico:0
+[   46007ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46008ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46008ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46011ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46028ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46029ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46029ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46030ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46036ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46037ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46037ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46038ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46044ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46045ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46045ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46046ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46053ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46053ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46053ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46054ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46060ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46061ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46061ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46061ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46070ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46070ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46070ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46071ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46077ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46077ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46078ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46078ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46086ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46087ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46087ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46088ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46094ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46095ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46095ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46096ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46103ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46103ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46103ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46104ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46111ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46112ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46112ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46112ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46119ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46120ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46120ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46121ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46128ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46128ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46128ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46129ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46136ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46136ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46137ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46137ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46144ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46145ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46145ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46146ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46153ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46153ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46153ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46154ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46160ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46161ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46161ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46162ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46170ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46170ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46170ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46171ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46178ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46178ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46178ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46178ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46187ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46187ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46187ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46188ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46194ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46195ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46195ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46195ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46203ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46203ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46203ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46203ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46212ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46212ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46212ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46213ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46219ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46220ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46220ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46220ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46227ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46228ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46228ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46228ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46236ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46236ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46236ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46237ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46244ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46245ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46245ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46245ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46253ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46253ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46253ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46253ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46261ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46262ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46262ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46262ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46269ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46270ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46270ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46270ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46279ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46279ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46279ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46279ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46286ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46286ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46286ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46287ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46294ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46295ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46295ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46295ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46303ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46303ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46303ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46304ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46311ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46311ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46311ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46312ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46319ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46320ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46320ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46320ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46328ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46329ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46329ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46329ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46336ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46336ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46336ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46336ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46344ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46345ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46345ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46345ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46353ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46353ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46353ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46353ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46361ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46361ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46361ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46362ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46369ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46370ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46370ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46370ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46377ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46378ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46378ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46378ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46386ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46387ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46387ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46387ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46394ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46394ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46395ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46395ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46403ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46403ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46403ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46403ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46411ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46411ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46411ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46412ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46419ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46420ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46420ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46421ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46428ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46428ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46428ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46428ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46436ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46437ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46437ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46437ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46444ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46445ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46445ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46445ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46452ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46453ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46453ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46454ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46461ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46461ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46461ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46462ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46469ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46469ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46469ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46470ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46477ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46478ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46478ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46478ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46486ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46486ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46486ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46487ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46494ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46495ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46495ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46495ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46503ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46504ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46504ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46504ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46512ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46512ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46512ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46512ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46519ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46519ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46519ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46520ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46527ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46528ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46528ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46528ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46537ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46537ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46537ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46537ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46545ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46546ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46546ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46546ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46552ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46553ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46553ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46553ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46561ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46562ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46562ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46563ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46570ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46571ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46571ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46571ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46578ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46579ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46579ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46579ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46586ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46586ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46586ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46586ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46595ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46595ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46595ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46596ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46602ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46603ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46603ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46603ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   46611ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46611ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46611ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   46611ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   47112ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47112ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47113ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47114ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   47119ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47120ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47120ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47121ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   47128ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47128ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47128ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47129ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   47394ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47395ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47395ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47396ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   47411ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47412ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47412ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47413ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   47419ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47420ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47420ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47421ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   47428ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47428ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47428ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47429ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   47436ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47437ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47437ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47437ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   47443ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47444ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47444ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47445ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   47453ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47453ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47454ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47454ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   47461ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47461ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47461ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47462ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   47469ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47470ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47470ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47470ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   47478ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47478ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47478ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47478ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   47486ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47486ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47486ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47487ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   47494ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47495ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47495ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47495ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   47503ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47503ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47503ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47504ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   47510ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47510ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47510ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47512ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   47520ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47520ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47520ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47521ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   47528ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47528ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47528ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47531ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   47536ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47537ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47537ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47540ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   47545ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47545ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47545ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47546ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   47553ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47553ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47553ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   47553ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   48455ms] [WARNING] [Vue warn]: Property "window" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   48456ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   48456ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   48458ms] [WARNING] [Vue warn]: Property "document" was accessed during render but is not defined on instance. 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   48459ms] [WARNING] [Vue warn]: Unhandled error during execution of render function 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   48459ms] [WARNING] [Vue warn]: Unhandled error during execution of component update 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
+[   48461ms] TypeError: Cannot read properties of undefined (reading 'innerWidth')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8338:78)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[   48461ms] TypeError: Cannot read properties of undefined (reading 'contains')
+    at Proxy.render41 (http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs:8376:73)
+    at renderComponentRoot (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:6688:17)
+    at ReactiveEffect.componentUpdateFn [as fn] (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:8320:26)
+    at ReactiveEffect.run (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:507:19)
+    at ReactiveEffect.runIfDirty (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:545:12)
+    at callWithErrorHandling (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2344:33)
+    at flushJobs (http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2552:9)
+[  130764ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5180/@fs/Users/marcwtg_1/_Cowork/_GitHub/agentation-vue/package/dist/vue.mjs?t=1772509917170:0
+[  130765ms] [ERROR] [vite] Failed to reload /src/App.vue. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5180/@vite/client:881
+[  131584ms] [WARNING] [Vue warn]: Property "__VERSION__" was accessed during render but is not defined on instance. 
+  at <ToolbarSettingsPanel settings= {outputDetail: standard, autoClearAfterCopy: false, annotationColor: #3c82f7, blockInteractions: true, reactEnabled: true} is-dark-mode=true show-settings-visible=false  ... > 
+  at <AgentationToolbar> 
+  at <App> @ http://localhost:5180/node_modules/.vite/deps/vue.js?v=1495a80f:2196
